@@ -17,7 +17,7 @@ A missão foi criar uma página web em React que apresente uma solução visual 
 
 ## ✏️ Deploy 
 ```bash
-  https://cine-vnw.vercel.app/
+  //Em processamento...
 ```
 
 # React + Vite
