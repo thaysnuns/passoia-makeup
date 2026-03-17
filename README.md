@@ -6,7 +6,7 @@ APIs) do curso de Desenvolvimento WEB do Vai Na Web com L'oreal Groupe
 "A Passoia é uma loja de maquiagens que está desenvolvendo um novo site. A proposta da marca é oferecer ao cliente uma experiência de compra interativa, permitindo que ele visualize os produtos aplicados em diferentes tons de pele e teste virtualmente antes de comprar.
 Nos últimos meses, a empresa percebeu que muitos clientes têm dificuldade em escolher o tom ideal pela internet, o que gera insegurança na compra e aumenta as devoluções. O objetivo da Passoia é aumentar a confiança do cliente, oferecendo testes visuais mais realistas e produtos interativos."
 
-A missão foi criar uma página web em React que apresente uma solução visual e interativa para esse problema. Foi usado um protótipo do Figma como referência.
+A missão foi criar uma página web em React que apresente uma solução visual e interativa para esse problema.
 
 ## 🧰 Requisitos Técnicos
 * Desenvolvido com React.js
@@ -15,10 +15,24 @@ A missão foi criar uma página web em React que apresente uma solução visual 
 
 * Hospedado na Vercel
 
+---
+
+## 🎨 Design  
+
+O layout foi desenvolvido a partir de um protótipo no **Figma**, com liberdade criativa para ajustes e aprimoramentos no estilo visual.
+
+---
+
 ## ✏️ Deploy 
 ```bash
   //Em processamento...
 ```
+---
+## 🖼️ Prévia
+
+  >Em processo...
+
+---
 
 # React + Vite
 
